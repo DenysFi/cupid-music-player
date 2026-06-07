@@ -1,6 +1,5 @@
 .claude/
 *.p8
-.env
 node_modules/
 dist/
 dist-electron/
@@ -12,13 +11,12 @@ bin/
 Thumbs.db
 
 .env.*.local
-.env.local
 
 audio/*.mp3
 
 *.log
 npm-debug.log*
 
-.vscode/
 .idea/
 *.swp
+config.bat
